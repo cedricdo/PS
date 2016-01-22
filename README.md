@@ -1,6 +1,7 @@
-This package provides some PowerShell cmdlet for Windows based host and VMware environment. It requires two PowerShell Module :
+This package provides some PowerShell cmdlet for Windows based host and VMware environment. It requires some PowerShell Modules :
   * [NTFSSecurity](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85)
   * [PSRemoteRegistry](https://psremoteregistry.codeplex.com/)  
+  * [vSphere powerCLI](https://www.vmware.com/support/developer/PowerCLI/)
   
 You will also need admin privilege on the host.
   * /Computer provides cmdlet for hardware and software informations on windows host
